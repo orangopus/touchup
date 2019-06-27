@@ -9,7 +9,7 @@ TouchUp combines PowerShell & MixItUp API functionality all into one easily conf
 - PowerShell
 
 ## **Parameters** 
----
+
 You need the required ones to run the script. (Or you can edit them in the script file, but do so at your own risk)
 
 | Parameter    | Usage        | String  | Required
@@ -33,7 +33,7 @@ Alternatively, you can generate a commands.txt file with the `-generate` paramet
 
 
 ## **Getting Started**
----
+
 - Add a button to your grid on Touch Portal
 - Select **Run PowerShell Script** under **Run**
 - Browse for the file: `portalitup.ps1`
@@ -42,7 +42,7 @@ Alternatively, you can generate a commands.txt file with the `-generate` paramet
 - Test out a command by tapping on the button you assigned the script to.
 
 ## Big Thanks
----
+
 Thank you to the Mix It Up and Touch Portal communities for making awesome tools.
 
 ## Contribute to the Code
