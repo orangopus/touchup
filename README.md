@@ -3,10 +3,19 @@
 
 TouchUp combines PowerShell & MixItUp API functionality all into one easily configurable automated .ps1 script that you can use with Touch Portal.
 
-### Pre-requisites
+## Pre-requisites
 - [Touch Portal](https://www.touch-portal.com/)
 - [Mix It Up](https://mixitupapp.com/)
 - PowerShell
+
+## **Getting Started**
+
+- Add a button to your grid on Touch Portal
+- Select **Run PowerShell Script** under **Run**
+- Browse for the file: `touchup.ps1`
+- In the area called **Command Line params**
+    - Enter: `-command Usage -category Usage` (See [Parameters](#Parameters) below for Usage details)
+- Test out a command by tapping on the button you assigned the script to.
 
 ## **Parameters** 
 
@@ -27,19 +36,14 @@ Alternatively, you can generate a commands.txt file with the `-generate` paramet
 `WARN` - Make sure not to name your commands on Mix It Up the same.
 
 ## Categories
-|Selectors|| | |
-|--|-|-|-|
-|Interactive|Chat|Pre-Made|Interactive|
 
-
-## **Getting Started**
-
-- Add a button to your grid on Touch Portal
-- Select **Run PowerShell Script** under **Run**
-- Browse for the file: `touchup.ps1`
-- In the area called **Command Line params**
-    - Enter: `-command Usage -category Usage`
-- Test out a command by tapping on the button you assigned the script to.
+- Interactive 
+- Chat 
+- Pre-Made
+- Event
+- Timer
+- ActionGroup
+- Game
 
 ## Big Thanks
 
