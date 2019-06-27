@@ -11,7 +11,7 @@ function GenerateCommands {
     $generate = $data.name > 'commands.txt'
     $generate
 }
-Generate Commands
+GenerateCommands
 
 function Commands {
     $filter = $data | Where-Object Name -eq $command
