@@ -36,7 +36,7 @@ Alternatively, you can generate a commands.txt file with the `-generate` paramet
 
 - Add a button to your grid on Touch Portal
 - Select **Run PowerShell Script** under **Run**
-- Browse for the file: `portalitup.ps1`
+- Browse for the file: `touchup.ps1`
 - In the area called **Command Line params**
     - Enter: `-command Usage -category Usage`
 - Test out a command by tapping on the button you assigned the script to.
