@@ -7,9 +7,11 @@ param (
 #Commands API Link
 $url = "http://localhost:8911/api/commands/"
 $data = Invoke-RestMethod -Uri $url -Method Get -ContentType 'application/json'
-    
-$generate = $data.name > 'commands.txt'
-$generate
+function GenerateCommands {
+    $generate = $data.name > 'commands.txt'
+    $generate
+}
+Generate Commands
 
 function Commands {
     $filter = $data | Where-Object Name -eq $command
@@ -29,3 +31,4 @@ function Commands {
     Exit-PSSession
 
 }
+Commands
