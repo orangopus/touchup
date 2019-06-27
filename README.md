@@ -1,7 +1,7 @@
 
 ![](image.png)
 
-TouchUp combines PowerShell & MixItUp API functionality all into one easily configurable automated .ps1 script that you can use with Touch Portal.
+TouchUp combines PowerShell & Mix It Up API functionality all into one easily configurable automated .ps1 script that you can use with Touch Portal.
 
 ## Pre-requisites
 - [Touch Portal](https://www.touch-portal.com/)
