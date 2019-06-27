@@ -27,9 +27,9 @@ Alternatively, you can generate a commands.txt file with the `-generate` paramet
 `WARN` - Make sure not to name your commands on Mix It Up the same.
 
 ## Categories
-|Selectors||||
-|-| -| -| -|-|
-|Interactive|Chat|Pre-Made|Interactive||
+|Selectors|| | |
+|--|-|-|-|
+|Interactive|Chat|Pre-Made|Interactive|
 
 
 ## **Getting Started**
