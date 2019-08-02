@@ -54,6 +54,8 @@ If you would like to contribute to the code, submit a pull request.
 
 ## Got Stuck?	
 
+[TouchUp Guide for Dummies](https://github.com/orangopus/touchup/wiki/TouchUp-Guide-for-Dummies)
+
 You can read the [Mix It Up Wiki](https://github.com/SaviorXTanren/mixer-mixitup/wiki) for more information on what you can do with Mix It Up itself including Commands, Actions, Timers, MixPlay Interactive, and more.	
 
 And here's the [Mix It Up Developer API Docs](https://saviorxtanren.github.io/mixer-mixitup) for the endpoints.	
